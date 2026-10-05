@@ -1,0 +1,6 @@
+{
+  "name": "Atari to MS-DOS Mode 13h EXE Converter",
+  "description": "Convert Atari ROMs to authentic 16-bit MS-DOS MZ .EXE binaries with 8-bit 320x200 VGA Mode 13h graphics, custom DAC palettes, x86 assembly viewer, and live DOS emulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
